@@ -1,8 +1,8 @@
 {
-  "version": "0.1.1",
-  "versionCode": 2,
-  "apkUrl": "https://github.com/checcoxmac/quadra-pdf-releases/releases/download/mobile-v0.1.1/Quadra-PDF-Mobile-0.1.1.apk",
-  "sha256": "f0b92cd113870779d519ff09f3bbb47fdc270709b463698c49643be4a4b96571",
-  "notes": "Release mobile di sola prova per verifica aggiornamento in-app 0.1.0 -> 0.1.1",
-  "releasedAt": "2026-11-26T19:52:16Z"
+  "version": "0.1.2",
+  "versionCode": 3,
+  "apkUrl": "https://github.com/checcoxmac/quadra-pdf-releases/releases/download/mobile-v0.1.2/Quadra-PDF-Mobile-0.1.2.apk",
+  "sha256": "5a4146177bbb495d19db86b3da503f7a338e53e78b951b263cad70db9531a5b4",
+  "notes": "Quadra PDF Mobile Android v0.1.2 — edge-to-edge Android 13-15, header per schermata, rifilo bordi scuri, updater ogni 6h",
+  "releasedAt": "2026-11-26T20:25:17Z"
 }
