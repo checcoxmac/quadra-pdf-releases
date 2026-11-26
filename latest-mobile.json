@@ -1,8 +1,8 @@
 {
-  "version": "0.1.2",
-  "versionCode": 3,
-  "apkUrl": "https://github.com/checcoxmac/quadra-pdf-releases/releases/download/mobile-v0.1.2/Quadra-PDF-Mobile-0.1.2.apk",
-  "sha256": "b5f9fc12628f4673966c48575963eba529605206e6d0f3765e41f24409125db3",
-  "notes": "Quadra PDF Mobile Android v0.1.2 — edge-to-edge Android 13-15, cache WebView auto-clear, rifilo bordi scuri, updater ogni 6h",
-  "releasedAt": "2026-11-26T20:53:57Z"
+  "version": "0.2.0",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/checcoxmac/quadra-pdf-releases/releases/download/mobile-v0.2.0/Quadra-PDF-Mobile-0.2.0.apk",
+  "sha256": "104a374c8c56055f973198780e5daaac2ec67c11a7e423c6f18f933fe4954f95",
+  "notes": "Blocco 2: Documenti identita A4, Storico permanente SQLite e nuova navigazione a 4 schede",
+  "releasedAt": "2026-11-26T21:13:27Z"
 }
