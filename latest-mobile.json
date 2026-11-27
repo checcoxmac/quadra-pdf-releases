@@ -1,8 +1,8 @@
 {
-  "version": "0.4.2",
-  "versionCode": 10,
-  "apkUrl": "https://github.com/checcoxmac/quadra-pdf-releases/releases/download/mobile-v0.4.2/Quadra-PDF-Mobile-0.4.2.apk",
-  "sha256": "61b865f79f2eeb5fae8f8076e666dd935aecc0f0aca4c1f31898bfebfccc4779",
-  "notes": "Correzioni selezione testo PDF precisa su smartphone (v0.4.2)",
-  "releasedAt": "2026-11-27T13:06:21Z"
+  "version": "0.5.0",
+  "versionCode": 11,
+  "apkUrl": "https://github.com/checcoxmac/quadra-pdf-releases/releases/download/mobile-v0.5.0/Quadra-PDF-Mobile-0.5.0.apk",
+  "sha256": "f4a466aa0bec7e356e7dd8603441f985dff6069800d74c729ad18c1e245a552a",
+  "notes": "Quadra PDF Mobile Android (mobile-v0.5.0)",
+  "releasedAt": "2026-11-27T14:51:09Z"
 }
