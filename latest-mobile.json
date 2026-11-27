@@ -1,8 +1,8 @@
 {
-  "version": "0.4.1",
-  "versionCode": 9,
-  "apkUrl": "https://github.com/checcoxmac/quadra-pdf-releases/releases/download/mobile-v0.4.1/Quadra-PDF-Mobile-0.4.1.apk",
-  "sha256": "5d6b1ba4b9d8ea6a2c3f96853737c8e11802f486c3a1a0e153391df8ae9da1cf",
-  "notes": "Quadra PDF Mobile 0.4.1: selezione e copia del testo in modalità Leggi con TextLayer PDF.js allineato allo zoom e barra rapida Copia / Seleziona pagina",
-  "releasedAt": "2026-11-27T11:21:04Z"
+  "version": "0.4.2",
+  "versionCode": 10,
+  "apkUrl": "https://github.com/checcoxmac/quadra-pdf-releases/releases/download/mobile-v0.4.2/Quadra-PDF-Mobile-0.4.2.apk",
+  "sha256": "61b865f79f2eeb5fae8f8076e666dd935aecc0f0aca4c1f31898bfebfccc4779",
+  "notes": "Correzioni selezione testo PDF precisa su smartphone (v0.4.2)",
+  "releasedAt": "2026-11-27T13:06:21Z"
 }
