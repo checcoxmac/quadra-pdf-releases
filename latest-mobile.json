@@ -1,8 +1,8 @@
 {
-  "version": "0.3.0",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/checcoxmac/quadra-pdf-releases/releases/download/mobile-v0.3.0/Quadra-PDF-Mobile-0.3.0.apk",
-  "sha256": "649db56973ed066afec04b76c157c8397c78eea4b62997d61814fb93f2cf7141",
-  "notes": "Blocco 3 (M2 Pacchetto): Stampa, Modifica rapida testo, Nome automatico, Cartelle cliente, Scontrini PDF+XLSX, Scansione a raffica, QR PagoPA/F24, Comprimi PEC, Moduli PDF e App Shortcuts",
-  "releasedAt": "2026-11-26T22:12:52Z"
+  "version": "0.3.1",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/checcoxmac/quadra-pdf-releases/releases/download/mobile-v0.3.1/Quadra-PDF-Mobile-0.3.1.apk",
+  "sha256": "a1b6578d078febdc313c5d1d08e8e8ce34a2ef5393cce5d15256303120dd63f4",
+  "notes": "Fix v0.3.1: testo PDF nitido HiDPI con pinch-to-zoom, modifica testo guidata su righe evidenziate e impaginazione smartphone senza tagli",
+  "releasedAt": "2026-11-27T07:00:45Z"
 }
