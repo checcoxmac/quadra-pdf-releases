@@ -1,8 +1,8 @@
 {
-  "version": "0.3.2",
-  "versionCode": 7,
-  "apkUrl": "https://github.com/checcoxmac/quadra-pdf-releases/releases/download/mobile-v0.3.2/Quadra-PDF-Mobile-0.3.2.apk",
-  "sha256": "53a87e9a959b070db5483a11ddd837731d77dd46959ad33c9097768210b6a06c",
-  "notes": "Fix v0.3.2: navigazione completa destra/sinistra/alto/basso del PDF quando zoomato, pinch-to-zoom fluido sul punto toccato e pan libero anche in modalità Annota",
-  "releasedAt": "2026-11-27T08:03:38Z"
+  "version": "0.4.0",
+  "versionCode": 8,
+  "apkUrl": "https://github.com/checcoxmac/quadra-pdf-releases/releases/download/mobile-v0.4.0/Quadra-PDF-Mobile-0.4.0.apk",
+  "sha256": "1798d227f1f0acd2f9e67a5883956e632201d23b26e5f6dc6c2ff92cadf32988",
+  "notes": "Quadra PDF Mobile 0.4.0: Seleziona e trasforma annotazioni (sposta/ridimensiona/ruota), Testo libero e Note, Raddrizza PDF automatico e manuale (±15°), virtualizzazione pagine e prestazioni migliorate",
+  "releasedAt": "2026-11-27T11:02:55Z"
 }
